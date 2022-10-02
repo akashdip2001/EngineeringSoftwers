@@ -13,9 +13,6 @@ my 2 nd try - website
 - 🔭 I’m currently working on [**my web-site**](https://akashdip2001.github.io/linktree/)
 -------------------------------------------------------------------------------------------------------------------------------
 
-https://akashdip2001.nicepage.io/Home.html //
-https://akashdip2001.netlify.app
-
 ![website 2](https://user-images.githubusercontent.com/81384987/191945216-aa5a160b-3232-43c3-ba98-7b8c3d15b347.jpg)
 
 -------------------------------------------------------------------------------------------------------------------------------
