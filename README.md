@@ -1,4 +1,5 @@
-# EngineeringSoftwers-1st-try
+# akashdipmahapatra
+my 2 nd try - website
 
 <h1 align="right">AKASHDIP MAHAPATRA</h1>
 <h3 align="right">National award from Dilhi,taken from Indian precedent Pronob Mukherjee 2012,Drawing</h3>
@@ -11,6 +12,27 @@
 
 - 🔭 I’m currently working on [**my web-site**](https://akashdip2001.github.io/linktree/)
 -------------------------------------------------------------------------------------------------------------------------------
+
+https://akashdip2001.nicepage.io/Home.html //
+https://akashdip2001.netlify.app
+
+![website 2](https://user-images.githubusercontent.com/81384987/191945216-aa5a160b-3232-43c3-ba98-7b8c3d15b347.jpg)
+
+-------------------------------------------------------------------------------------------------------------------------------
+**Passward**
+<script language="JavaScript">
+<!--hide
+var password;
+var pass1="100As";
+passward=prompt('Enter Passward To View Page',' ');
+if (password==pass1)
+alert('Correct Passward, click ok to enter.');
+else
+{
+window.location="https://akashdip2001.netlify.app/about_e6843420070625d7049861cecdfdc6cefbbe2dbfcaf29f22a63f03c3a64a00da";
+}
+//-->
+</script>
 
 -------------------------------------------------------------------------------------------------------------------------------
 
